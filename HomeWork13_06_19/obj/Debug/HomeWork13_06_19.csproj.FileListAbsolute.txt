@@ -1,0 +1,15 @@
+c:\users\калабаева\source\repos\HomeWork13_06_19\HomeWork13_06_19\bin\Debug\HomeWork13_06_19.exe.config
+c:\users\калабаева\source\repos\HomeWork13_06_19\HomeWork13_06_19\bin\Debug\HomeWork13_06_19.exe
+c:\users\калабаева\source\repos\HomeWork13_06_19\HomeWork13_06_19\bin\Debug\HomeWork13_06_19.pdb
+c:\users\калабаева\source\repos\HomeWork13_06_19\HomeWork13_06_19\obj\Debug\HomeWork13_06_19.csprojAssemblyReference.cache
+c:\users\калабаева\source\repos\HomeWork13_06_19\HomeWork13_06_19\obj\Debug\MainWindow.g.cs
+c:\users\калабаева\source\repos\HomeWork13_06_19\HomeWork13_06_19\obj\Debug\App.g.cs
+c:\users\калабаева\source\repos\HomeWork13_06_19\HomeWork13_06_19\obj\Debug\HomeWork13_06_19_MarkupCompile.cache
+c:\users\калабаева\source\repos\HomeWork13_06_19\HomeWork13_06_19\obj\Debug\HomeWork13_06_19_MarkupCompile.lref
+c:\users\калабаева\source\repos\HomeWork13_06_19\HomeWork13_06_19\obj\Debug\MainWindow.baml
+c:\users\калабаева\source\repos\HomeWork13_06_19\HomeWork13_06_19\obj\Debug\HomeWork13_06_19.g.resources
+c:\users\калабаева\source\repos\HomeWork13_06_19\HomeWork13_06_19\obj\Debug\HomeWork13_06_19.Properties.Resources.resources
+c:\users\калабаева\source\repos\HomeWork13_06_19\HomeWork13_06_19\obj\Debug\HomeWork13_06_19.csproj.GenerateResource.cache
+c:\users\калабаева\source\repos\HomeWork13_06_19\HomeWork13_06_19\obj\Debug\HomeWork13_06_19.csproj.CoreCompileInputs.cache
+c:\users\калабаева\source\repos\HomeWork13_06_19\HomeWork13_06_19\obj\Debug\HomeWork13_06_19.exe
+c:\users\калабаева\source\repos\HomeWork13_06_19\HomeWork13_06_19\obj\Debug\HomeWork13_06_19.pdb
